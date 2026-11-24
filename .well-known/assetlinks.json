@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dalplan.game",
+      "sha256_cert_fingerprints": [
+        "DF:90:70:2C:C6:0B:91:B7:05:6D:C3:42:3D:F8:19:2E:F3:37:59:F5:82:B2:B1:32:82:A1:BB:74:2D:D9:99:0E"
+      ]
+    }
+  }
+]
